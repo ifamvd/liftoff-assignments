@@ -8,9 +8,11 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 
-Our group decided to create a webapp for a food truck. With the nature of food trucks being on the move all the time, we believe that communication with current and prospective customers is highly important. The easier it is for them to find the food truck, the better it is. Even more, the easier it is for them to order the food, the better it is. Therefore, we want to create an app that would eventually accomplish all of that; we want to create an app that removes the barrier between food trucks and the customers.
+Our group decided to create a webapp for a food truck. With the nature of food trucks being on the move all the time, we believe that communication with current and prospective customers is highly important. The easier it is for them to find the food truck, the better it is. Even more, the easier it is for them to order the food, the better it is. Therefore, we want to create an app that would eventually accomplish all of that; we want to create an app that removes the barrier between a food truck and its customers.
 
-On our webapp, customers would be able to quickly order, preorder for a pick up at later time, find out where the food truck is currently at, get notifications via SMS and/or email about special events, promotions, and status of their orders, access the food truck calendar, and access other basic information such as the homepage, contact page, and about us page. We hope that this will make both the customers and the food truck owner have a better and easier business experience.
+Through our webapp, food truck owner would be able to update the menu, update the location, alert customers, access orders, update calendar, and create custom notifications for customers. Basically, the owner would have all they need to update the customers with the latest important information.
+
+The customers would then get these features; they would be able to quickly order, preorder for a pick up at later time, find out where the food truck is currently at, get notifications via SMS and/or email about special events, promotions, and status of their orders, access the food truck calendar, and access other basic information such as the homepage, contact page, and about us page. We hope that this will make both the customers and the food truck owner have a better and easier business experience.
 
 ### Features
 
@@ -31,7 +33,7 @@ We will be building the app using:
 * Razor Template
 * Twilio API
 * Map API (most likely Google Map)
-* SQLite database
+* SQLite (.NET's flavor of SQL database)
 
 ### What I'll Have to Learn
 
